@@ -43,6 +43,9 @@
                    >
                      <option value="">Select</option>
                      {classes.map(cls => (
+                   )
+                   )
+                   }
 @@ .. @@
                  <div className="relative">
 -                  <BookMarked className="absolute left-3 top-3.5 h-4 w-4 text-purple-400" />
@@ -57,6 +60,9 @@
                    >
                      <option value="">Select</option>
                      {faculties.map(faculty => (
+                     )
+                     )
+                     }
 @@ .. @@
               <div className="relative">
 -                <Mail className="absolute left-3 top-3.5 h-4 w-4 text-purple-400" />
